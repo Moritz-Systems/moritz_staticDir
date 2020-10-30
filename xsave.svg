@@ -8,14 +8,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 792.98029 185.08662"
+   viewBox="0 0 979.46235 185.08662"
    fill="none"
    stroke="none"
    stroke-linecap="square"
    stroke-miterlimit="10"
    id="svg55"
    sodipodi:docname="xsave.svg"
-   width="792.98029"
+   width="979.46234"
    height="185.08662"
    inkscape:export-filename="/tmp/xsave.png"
    inkscape:export-xdpi="96"
@@ -29,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,17 +44,18 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1364"
-     inkscape:window-height="747"
+     inkscape:window-width="1460"
+     inkscape:window-height="753"
      id="namedview57"
      showgrid="false"
-     inkscape:zoom="0.75130208"
-     inkscape:cx="236.36398"
-     inkscape:cy="229.50713"
-     inkscape:window-x="1920"
-     inkscape:window-y="331"
+     inkscape:zoom="0.37565104"
+     inkscape:cx="-26.33745"
+     inkscape:cy="-93.364586"
+     inkscape:window-x="3641"
+     inkscape:window-y="169"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg55" />
+     inkscape:current-layer="svg55"
+     inkscape:document-rotation="0" />
   <clipPath
      id="p.0">
     <path
